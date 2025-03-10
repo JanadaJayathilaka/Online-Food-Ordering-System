@@ -37,7 +37,7 @@ A responsive Online Food Ordering System built using **HTML, CSS, JavaScript, PH
 
 1️⃣ Clone the repository:  
 ```sh
-git clone https://github.com/thusal-dilhara/online-food-ordering-system.git
+git clone https://github.com/JanadaJayathilaka/Online-Food-Ordering-System
 ```  
 
 2️⃣ Import the database:  
